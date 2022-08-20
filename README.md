@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm The Ohio State University's College of Engineering graduate with a B.S. in Computer Science and Engineering.
+This account holds a purpose of saving most of my software engineering work back in school.
+
+*Most of the repos are now set to private as of Aug 2022* 
 
 <!--
 **choi1655/choi1655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
